@@ -1,4 +1,4 @@
-# ai4eo_provv
+# hyperspectral-cnn-soil-estimation
 
 A simple and light CNN-based regression model for soil parameters estimation from hyperspectral images.
 The model has been developed by Achille Ballabeni and Alessandro Lotti[^1] as part of our participation to the ESA’s sponsored <a href="https://platform.ai4eo.eu/seeing-beyond-the-visible">#HYPERVIEW Challenge: Seeing Beyond the Visible</a>.
