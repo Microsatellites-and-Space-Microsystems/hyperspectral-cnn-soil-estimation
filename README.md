@@ -1,0 +1,1 @@
+# hyperspectral-cnn-soil-estimation
