@@ -1,0 +1,8 @@
+total loading time,78.12842869758606
+total preprocessing time,32.60736060142517
+total inference time,6.321658372879028
+total processing time,39.01855707168579
+total time,122.56855845451355
+fps network inference,182.54703622562917
+fps processing,29.575670824521897
+fps overall,9.415138878607774
